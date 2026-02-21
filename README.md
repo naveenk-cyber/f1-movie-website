@@ -57,7 +57,7 @@ Copy code
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/naveenk-cyber/f1-movie-website.git
 Open index.html in any web browser.
 
 🌐 Deploy on GitHub Pages
@@ -77,7 +77,7 @@ Your site will be live at:
 
 arduino
 Copy code
-https://your-username.github.io/your-repo-name/
+https://github.com/naveenk-cyber/f1-movie-website.git
 🛠️ Technologies Used
 HTML5
 
